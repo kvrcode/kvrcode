@@ -2,13 +2,9 @@
 
 ### 💻 I’m currently working on:
 
-[An ecommerce theme](https://github.com/kvrcode/ecomm)
 
 ### 📚 I’m currently learning:
 
-[The Odin Project](https://www.theodinproject.com/)
-
-[Full Stack Open](https://fullstackopen.com/en/)
 
 ### 💬 Ask me about:
 
